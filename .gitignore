@@ -1,0 +1,26 @@
+# Secrets (API keys) - kabhi GitHub par upload nahi karna
+.env
+.env.*
+!.env.example
+ 
+# Generated resume (personal data hota hai)
+Generated_Resume.pdf
+*.pdf
+ 
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+ 
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+ 
