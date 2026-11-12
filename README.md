@@ -34,14 +34,6 @@ A command-line tool that collects your details through a short AI-driven chat, g
 └── README.md
 ```
 
-## Setup
-
-**1. Clone the repository**
-
-```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
-```
 
 **2. Create and activate a virtual environment (recommended)**
 
